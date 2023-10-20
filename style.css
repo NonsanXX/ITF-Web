@@ -1,0 +1,10 @@
+#website_title {
+    font-size: 128px;
+}
+
+#second {
+    font-size: 200px;
+    text-align: center;
+    border: 2px red-solid;
+    padding: 200px 100px;
+}
